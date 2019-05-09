@@ -1,20 +1,4 @@
 patid,expert_dx,comments
-10240256,probable,
-5227009,definite,
-380163,definite,
-2180104,definite,
-13536270,probable,
-5433355,uncertain,
-11929556,uncertain,
-5608079,probable,
-7327120,definite,
-7327120,definite,
-894481,definite,
-1158290,probable,
-2021011,definite,
-7719319,definite,
-6580123,uncertain,
-1536668,probable,
 10452125,probable,"given probable dx of dementia by memory clinic, then GP record runs out"
 641564,definite,MMSE 11/30
 31088164,uncertain,clear memory impairment but nothing to clearly indicate dementia
@@ -43,3 +27,41 @@ patid,expert_dx,comments
 27947181,definite,"MMSE 21/30, started on dementia meds"
 1009360,definite,dementia mentioned in notes. Seems to have been referred to MAS but not seen
 2085585,uncertain,"MMSE 30/30, despite forgetfulness"
+16233427,probable,was referred to MH services just before record ends
+777172,diagnosis MCI,Parkinson's. Seen in memory clinic. Some cognitive impairment + depression
+1242325,diagnosis MCI,Given MCI diagnosis in memory clinic
+10522070,definite,Described as 'frail and demented'. There is a discussion about starting donepezil
+5891544,probable,"Diagnosed with MCI at memory clinic. Final entry, whichis from memory clinic OT, strongly suggests that she now has dementia (e..g MMSE 20/30, very poor functioning)."
+3785435,uncertain,"Pt seen in memory clinic, but they were very delayed sending out letter, despite efforts by GP to chase it up."
+4560479,uncertain,"Family concerned about memory, GP reassured by good MMSE."
+12143457,uncertain,"Anxious patient with multiple health anxieties, worried about her memory. GP discusses memory clinic referral with her, outcome uncertain"
+8419043,uncertain,"Family worried about dementia. Patient admits memory problems, but capacitously refuses MMSE (and by extension, one imagines, referral to memory clinic)"
+1429635,uncertain,Patient concerned about memory. Dies at end of record.
+8270053,probable,"GP concerned about dementia - performs multiple cognitive tests. Reference made to pt wandering. Eventually referred to memory clinic, but no outcome by end of record"
+2763624,definite,Diagnosed with vascular dementia by specialist a month before record end. GP had previously suspected dementia.
+20416670,probable,"Parkinson's dementia strongly suspected. Referred to memory clinic at start of record, but this does not appear to happen."
+16079506,definite,'Senile dementia NOS' Read code. Very deaf and unable to understand memory assessment - GP doesn't refer to memory clinic probably for this reason
+6228456,uncertain,Memory problems due to acute stroke rather than dementia
+1953522,diagnosis MCI,"Seen in memory clinic, dementia ruled out but clear cognitive problems noted"
+4745491,diagnosis MCI,Given 'cognitive decline Read code'. Dying at record end
+5134670,uncertain,Referred to memory clinic as confusion and forgetting medications. Appears to have been seen and no diagnosis of dementia made.
+8229110,definite,"Diagnosis of severe AD  made in mmemory clinic. No Read code, but free text says MODERATELY SEVERE PROBABLY OF ALZHEIMERS TYPE."
+9382264,uncertain,Seen in memory clinic. Unclear what was the outcome.
+7187284,uncertain,"Frequent concerns about memory, but does not appear to be referred to memory clinic"
+8291322,diagnosis MCI,"Under memory clinic, memory impairment but does not appear to have dementia diagnosis"
+1155452,probable,"Clincial picture almost certainly suggests dementia. GP refers to CPN, but no diagnosis recorded"
+10240256,uncertain,"Referred to memory clinic, unclear whether actually seen in memory clinic over next six months"
+5227009,definite,On donepezil
+380163,probable,SCORE 13 IE SIGNIFICANT MEMORY IMPAIRMENT in free text. Seen in memory clinic - final entry isa reference to the scanned report
+2180104,definite,SEVERE DEMENTIA in free text
+13536270,probable,MMSE 23/30. Referral to memory clinic discussed - plan is to make referral if dementia screening bloods normal
+5433355,uncertain,Acute confusion. Memory problems persist afterwards - seems to have been referred onwards about this - see  2008-07-25 - but unclear what happneed
+11929556,probable,Clear cognitive problems. MAS referral made early in record but outcome not recorded
+5608079,probable,"Seen in memory clinic by CPN, who clearly thinks pt has dementia but does not explicitly make diagnosis"
+7327120,definite,Diagnosed with AD in MAS letter
+894481,probable,"Read code: Senile and presenile organic psychotic conditions. MMSE 22/30 strongly suggestive of dementia. GP planned to refer to MAS if dementia screen bloods normal, but not clear if this happened"
+1158290,definite,"No evidence of a diagnosis ever being made, but radiological evidence of dementia plus numerous signs and symptoms. Terminally ill at record end"
+2021011,definite,Given MCI diagnosis by memory clinic - Read code is used for this. Five months later it is recorded that  PATIENT HAS DEMENTIA AND LIVES ALONE
+7719319,definite,"Seen in memory clinc, started on donepezil"
+6580123,uncertain,Anxiety and memory problems. Psych assessment discussed but doesn't appear to happen
+1536668,uncertain,"Numerous concerns raised by family and patient about memory problems, unclear if referred"
